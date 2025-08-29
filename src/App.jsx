@@ -11,6 +11,7 @@ function App() {
 
   return (
     <div className='w-screen h-screen overflow-x-hidden'>
+      <div className='w-full text-center p-1 sticky top-0 bg-zinc-900 border-b border-zinc-700 text-zinc-100 z-30'>Demo Website</div>
       <main className='h-full'>
 
         <div className='hero-img mx-auto h-full'>
