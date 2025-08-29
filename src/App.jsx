@@ -29,7 +29,7 @@ function App() {
             </nav>
 
             <div className='flex flex-col justify-center gap-6 h-full'>
-              <h1 className='text-8xl w-[80rem]'>Crafted with Care, Sipped with Joy.
+              <h1 className='text-8xl w-[60rem]'>Crafted with Care, Sipped with Joy.
               </h1>
 
               <p className='text-xl w-[50rem]'>Handcrafted Brews. Freshly Baked Delights. A Cozy Space Where Every Moment Finds Its Rhythm.</p>
